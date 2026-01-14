@@ -1,14 +1,33 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Programming in Earth Science
+description: Introduction Programming in Earth Science
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
+# Learning Outcomes
+
+1. Students will understand the fundamentals of coding (data types, variables, etc.) and know how to identify them in a programming language ~programming literacy
+2. Be able to use real world data and customize their code to answer a research question
+3. Applications of the concept
+4. Graphical representation (boxplot, line, etc.)
+5. Ability to communicate your data (story telling, being able to be descriptive)
+6. Find examples of how the code is being used in the real world, how what they coded fits into the real world and figures and code that is out there
+7. Being able to read documentation in coding and packages
+
+## Points of Flexibility within the Syllabus at the Instructor's Discretion
+
+- Flexibility in the design of the syllabus (use 2 or 3 languages)
+- Flexibility on the AI policy (see the end of the documents)
+- Flexibility depending on the students' background in programming:
+  - **Bolded are important topics for both higher and lower level division class**
+  - Unbolded are for lower division / coders who need more support
+  - Orange text is for advanced programmers who would like to go further and time permitting
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +97,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
+[![Preview](https://github.com/peces-example/peces-example.github.io/blob/main/assets/img/peces_people.jpg)](https://alshedivat.github.io/al-folio/)
 
 **A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
 

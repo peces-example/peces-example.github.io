@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Earth Science classroom
+description: Integrating Programming in the Earth Science classroom: Case Studies, Recommendations, and Resources
 img: assets/img/4.jpg
 importance: 1
 category: work

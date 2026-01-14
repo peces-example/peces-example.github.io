@@ -4,7 +4,7 @@
 
 [![Preview](https://github.com/peces-example/peces-example.github.io/blob/main/assets/img/peces_people.jpg)](https://alshedivat.github.io/al-folio/)
 
-**A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
+<!-- **A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
 
 ---
 
@@ -530,4 +530,4 @@ Our most active contributors are welcome to join the maintainers team. If you ar
 
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/main/LICENSE).
 
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
+Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features. -->
